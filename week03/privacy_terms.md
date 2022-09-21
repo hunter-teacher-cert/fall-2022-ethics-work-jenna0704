@@ -1,2 +1,13 @@
 
 TASK: Write up a short summary comparing and contrasting. Include an overview of what data is collected and maintained and how they may or may not use it.
+
+# Coding Rooms vs CodeHS
+
+Both Coding Rooms and CodeHS aim to collect only the information necessary to provide user with a better learning or teaching experience. 
+
+* Both Coding Rooms and CodeHS only collect and store Personal Infomration that users knwingly enter on the Service. Personal Information includes information that can be used to identify or contact an individual, such as name and emial address. For teachers, CodeHS collects information about the school to verify teaching status. 
+* Both Coding Rooms and CodeHS collect technical data automatically. Information collected automatically are: IP addresses, browser type, Internet serice provider, platform type, device type, operating system, communication data, date and time stamp of access, and other similar information. Both platforms assure that the Log Information they collected automatically is statistical data does not by itself include Personal Information. They are using it to provide and improve their Serivces. 
+* Since CodeHS is an interactive online learning platform offering computer science and programming instruction, it also collects information such as student code, programs, projects, grades, and uploaded files. CodeHS collects information about student projects, including their responses, attemps made, and time taken. This allows teachers to assess and monitor students' progress. 
+* Both Coding Rooms and CodeHS do not sell or rent Personal Information to any third party for any purpose, including advertising or marketing. They do not allow any advertising on their services. They restrict access to user information to employees, contractors and agents who need to know that infomration in order to process it. These people are subject to strict contractual security standards and confidentiality obligations. 
+* CodeHS included information related to the Children's Online Privacy and Protection Act ("COPPA"). They only collect Personal Information through the Services from a child under 13 where that student's school, district, and/or teacher has agreed to obtain parental consent for that child to use the Services and disclose Personal Information. Coding Rooms did not mention COPPA in their privacy policy. 
+* CodeHS will delete a user's Personal Information 4 years after the user's last login to the Service. Coding Rooms did not explain how they delete information collected in their privacy policy. 
