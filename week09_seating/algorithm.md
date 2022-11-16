@@ -1,5 +1,3 @@
-### Write up a description of the algorithm you will implement
-
 ## check_needs(traveler_disctionary)
 This function is used to determine whether a traveler needs to be seated with their companion.A traveler needs to be seated with their companion if they are 15 years or younger or if they have accessibility needs. 
 This function will take in a dictionary of travelers in a group, the keys are the names for the travelers in the group and the values are true or false indicating whether they need to be sitted with their companion. 
