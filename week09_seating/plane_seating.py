@@ -234,7 +234,7 @@ def check_needs(traveler_dictionary):
     This function is used to determine whether a traveler needs to be seated with their companion.
     
     Params: a dictionary of travelers in a group 
-            the keys are the names for the travelers in the group and the values are true or false indicating whether they need to be sitted together. 
+            the keys are the names for the travelers in the group and the values are true or false indicating whether they need to be seated together. 
 
     Returns: true or false indicating whether they need to be sitted together.
 
@@ -248,6 +248,8 @@ def check_needs(traveler_dictionary):
     return special_needs
 
 def simulate_family_size():
+  # 40% chance that the customer is traveling alone
+  # max family size = 3
   if random.randrange(100) > 40:
     family_size = random.randrange(1, 4)
   else:
@@ -255,6 +257,7 @@ def simulate_family_size():
   return family_size
 
 def simulate_travelers(family_size):
+  # 10% chance that the traveler is 15 years or younger or has accessibility needs.
   travelers = {}
   for i in range(family_size):
     needs = False
