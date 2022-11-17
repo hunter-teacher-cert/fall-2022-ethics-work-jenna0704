@@ -13,7 +13,7 @@ simulate random travelers that have special needs and need to be sitted together
 
 
 ## get_adj_seats(plane, family_size)
-
+Loop through each row and see if there is available adjacent seats for family size of 2 or 3. 
 
 ### family size of 2
 Case 1: 'win', 'avail'\
